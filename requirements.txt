@@ -1,10 +1,13 @@
-
 streamlit
-tensorflow
-pandas
+opencv-python-headless
+mediapipe==0.10.14
 numpy
-matplotlib
-joblib
-joblib
+pandas
 scikit-learn
+tensorflow==2.15.0
+matplotlib
+seaborn
+joblib
+rich
+
 
