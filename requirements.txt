@@ -1,12 +1,27 @@
-streamlit
-opencv-python-headless
-mediapipe
+# Core
 numpy
+pandas
 scikit-learn
-tensorflow
+
+# Deep Learning
+tensorflow==2.15.0
+
+# Visualization
 matplotlib
 seaborn
+
+# Streamlit app
+streamlit
+rich
+
+# Video & Image Processing
+opencv-python-headless
+mediapipe==0.10.14
+
+# Utilities
 joblib
+
+
 
 
 
