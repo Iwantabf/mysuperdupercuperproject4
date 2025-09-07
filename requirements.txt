@@ -1,4 +1,4 @@
-opencv-python
+opencv-python-headless
 streamlit
 tensorflow
 pandas
@@ -7,5 +7,6 @@ matplotlib
 joblib
 joblib
 scikit-learn
+
 
 
